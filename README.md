@@ -1,4 +1,4 @@
-Olá, eu sou a Natália 
+Olá meu nome é Natália e eu sou desenvolvedora FrontEnd.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
